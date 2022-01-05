@@ -46,13 +46,11 @@ h2 {
   margin: 0 auto;
 }
 
-.thomas {
-  height: 450px;
-}
 
 .bio {
   color: #ff48b0;
   font-family: 'Poppins', sans-serif;;
+  margin: 25px 0px
 }
 
 .spleat {
@@ -65,10 +63,14 @@ h2 {
   border-style: solid;
   border-color: white;
   border-radius: 10px;
-  padding: 45px;
+  padding: 22px;
   margin: 20px 0px;
   text-align: center;
   box-shadow: #ECA3F5 0 10px 10px;
+}
+
+.list {
+  padding: 12px;
 }
 
 .list h2 {
